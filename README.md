@@ -1,5 +1,5 @@
 # GUI-For-Sign-language-recognition
-Implementaion of GUI for Sign language to text using Python's tkinter module
+Implementaion of GUI for Sign language to text to audio using Python's tkinter and some other modules.
 
 I just inserted sample text in place of output text. Didn't implement any neural network to guess the sign from input image.
 
