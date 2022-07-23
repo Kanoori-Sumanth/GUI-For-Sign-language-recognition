@@ -1,0 +1,7 @@
+tkinter
+PIL
+cv2
+gtts
+playsound
+http
+numpy
